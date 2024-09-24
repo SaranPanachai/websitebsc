@@ -1,0 +1,13 @@
+.customer{
+    margin: 80px auto;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-basis: 31%;
+}
+.customer img{
+    width: 25%;
+    border-radius: 10px;
+    display: block;
+}
